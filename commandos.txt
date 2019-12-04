@@ -1,0 +1,16 @@
+init = in dem Verzeichnis wird ein neues Repository erstellt
+config = Konfiguration steuern
+clone = clone ein Repository von Github
+add = Datei ins Repository hinzufügen
+rm = remove, etwas löschen
+commit = Nachricht
+remote = um Link des Repositorys hineinzukopieren
+push = Online stellen
+pull = Änderungen vom Repository aktualisieren, falls jemand etwas verändert hat, damit man auf dem richtigen Stand ist
+status = Den aktuellen Status abfragen
+diff = Welche Änderungen vorgenommen wurden
+reset = Loswerden einer Datei
+log = listet die History des aktuellen Zweigs auf
+branch = Einen neuen Branch erstellen
+checkout = Den Branch wechseln
+merge = Branch verbinden
